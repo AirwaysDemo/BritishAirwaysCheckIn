@@ -1,7 +1,7 @@
 # Docker multi-stage build
 FROM openjdk:17
-ADD target/british-miles.jar british-miles.jar
-ENTRYPOINT ["java","-jar","/british-miles.jar"]
+ADD target/british-checkin.jar british-checkin.jar
+ENTRYPOINT ["java","-jar","/british-checkin.jar"]
 
 # Create a new user with UID 10014
 RUN addgroup -g 10014 choreo && \
