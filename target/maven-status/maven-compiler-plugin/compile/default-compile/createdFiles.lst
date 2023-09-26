@@ -1,0 +1,8 @@
+com\example\britishAirwaysCheckIn\britishAirwaysCheckIn\model\CheckInResponse.class
+com\example\britishAirwaysCheckIn\britishAirwaysCheckIn\repository\CheckInRepository.class
+com\example\britishAirwaysCheckIn\britishAirwaysCheckIn\service\CheckInService.class
+com\example\britishAirwaysCheckIn\britishAirwaysCheckIn\controller\CheckInController.class
+com\example\britishAirwaysCheckIn\britishAirwaysCheckIn\model\BritishCheckIn.class
+com\example\britishAirwaysCheckIn\britishAirwaysCheckIn\model\CheckInRequest.class
+com\example\britishAirwaysCheckIn\britishAirwaysCheckIn\Impl\CheckInServiceImpl.class
+com\example\britishAirwaysCheckIn\britishAirwaysCheckIn\BritishAirwaysCheckInApplication.class
