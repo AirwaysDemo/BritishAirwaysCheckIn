@@ -5,7 +5,7 @@ info:
 servers:
   - url: http://localhost:8080
 paths:
-  /customers/checkIn:
+  britishairways/checkin/:
     post:
       tags:
         - default
