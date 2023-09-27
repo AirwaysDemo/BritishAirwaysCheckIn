@@ -17,6 +17,14 @@ private Integer id;
 
         private String flightNumber;
         private String seatNumber;
+        private String passengerName;
+
+        private String fromWhere;
+
+        private String whereTo;
+
+
+        private float flightDistance;
 
         public Integer getId() {
                 return id;
@@ -90,13 +98,6 @@ private Integer id;
                 this.flightDistance = flightDistance;
         }
 
-        private String passengerName;
 
-        private String fromWhere;
-
-        private String whereTo;
-
-
-        private float flightDistance;
 
 }
