@@ -9,7 +9,7 @@ paths:
     post:
       tags:
         - default
-      summary: create
+      summary: read
       requestBody:
         content:
           application/json:
