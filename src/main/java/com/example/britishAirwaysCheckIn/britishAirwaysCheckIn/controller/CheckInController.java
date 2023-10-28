@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/britishairways/checkin")
 public class CheckInController {
+    
 
     @Autowired
     CheckInService checkinService;
